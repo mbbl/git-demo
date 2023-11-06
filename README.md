@@ -1,2 +1,2 @@
 # git-demo
-Git demo repo fro training
+Git demo repo for training
